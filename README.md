@@ -1,5 +1,5 @@
-# Fashion-sales-data-analysis - EXCEL
-# 📊 Fashion Retail Sales Analysis | Data Analyst Portfolio Project
+
+# 📊 Fashion Retail Sales Analysis | Data Analyst Portfolio Project -  EXCEL
 
 ## 🔍 Project Summary
 
